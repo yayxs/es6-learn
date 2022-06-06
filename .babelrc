@@ -1,0 +1,6 @@
+{
+  "presets": [
+    "@babel/env" // 最新转码规则
+  ], // 转码规则
+  "plugins": []
+}

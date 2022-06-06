@@ -1,0 +1,26 @@
+{
+  "name": "es6-learn",
+  "version": "1.0.0",
+  "description": "- es1.0 1997年  - es2.0 98年  - es3.0 99年 基本语法",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayxs/es6-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yayxs/es6-learn/issues"
+  },
+  "homepage": "https://github.com/yayxs/es6-learn#readme"
+}
