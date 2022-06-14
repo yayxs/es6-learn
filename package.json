@@ -1,8 +1,8 @@
 {
   "name": "es6-learn",
-  "version": "1.0.0",
-  "description": "- es1.0 1997年  - es2.0 98年  - es3.0 99年 基本语法",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "learn es6",
+  "type": "module",
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.17.10",
