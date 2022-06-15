@@ -1,3 +1,4 @@
 - `JavaScript` 的模块体系
 - 社区模块加载方案：CommonJS AMD
 - 语言层面的模块功能：ESM
+- promise 的生命周期

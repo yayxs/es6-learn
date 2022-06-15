@@ -7,6 +7,32 @@
     {
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen",
+      "name": "array",
+      "program": "${workspaceFolder}/src/array/index.js",
+      "request": "launch",
+      "restart": true,
+      "runtimeExecutable": "nodemon",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "type": "node"
+    },
+    {
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "name": "promise",
+      "program": "${workspaceFolder}/src/promise/index2.js",
+      "request": "launch",
+      "restart": true,
+      "runtimeExecutable": "nodemon",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "type": "node"
+    },
+    {
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
       "name": "set",
       "program": "${workspaceFolder}/src/set/index.js",
       "request": "launch",
