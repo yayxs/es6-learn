@@ -1,24 +1,30 @@
 {
   "name": "es6-learn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "learn es6",
   "type": "module",
-  "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.17.10",
     "@babel/core": "^7.18.2",
-    "@babel/preset-env": "^7.18.2"
+    "@babel/preset-env": "^7.18.2",
+    "vite": "^5.0.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yayxs/es6-learn.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ECMAScript 6",
+    "es6",
+    "ECMAScript",
+    "ECMAScript 2015",
+    "ES2015",
+    "ES6"
+  ],
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/yayxs/es6-learn/issues"
   },

@@ -174,8 +174,8 @@ function Square(len) {
 
 Square.prototype = Object.create(FatherType.prototype, {
   constructor: {
-    value: Square,
-  },
+    value: Square
+  }
 })
 
 /**
